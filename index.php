@@ -9,7 +9,7 @@
 <body>
     <h1>Fichier php</h1>
     <?php
-        echo"cette fois,mon php est <strong>interprété</strong>";
+        echo"cette fois,mon php est <strong>interprété test ggithub</strong>";
     ?>
 </body>
 </html>
